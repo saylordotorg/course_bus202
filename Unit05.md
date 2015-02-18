@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Corporate Capital Structure, Cost Of Capital, And Taxes**
 <span id="5"></span> 
 *Does it matter whether a company’s assets are being financed with 50%

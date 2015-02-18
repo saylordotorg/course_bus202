@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Capital Budgeting Techniques** <span id="3"></span> 
 *Unit 3 shows how a financial manager makes capital investment decisions
 using financial tools.  It is especially the case that this unit

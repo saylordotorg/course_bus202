@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Time Value Of Money: Future Value, Present Value, And Interest
 Rates** <span id="2"></span> 
 *Suppose you have the option of receiving $100 dollars today vs. $200 in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Application: The Capm Model** <span id="6"></span> 
 *Unit 6 gives you an application in finance that puts what you have
 learned from the previous units about cost of capital, net present

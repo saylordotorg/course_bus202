@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Risk And Return** <span id="4"></span> 
 *Unit 4 provides an explanation of the relationship between risk and
 return.  Every investment decision carries a certain amount of risk. 

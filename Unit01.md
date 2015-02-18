@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS202: Principles of Finance"
+course_description: "Survey of a number of different sub-fields within finance, with particular emphasis on managing investments, evaluating stocks, and determining which projects have the best potential payoff."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction To Finance, Financial Statements, And Financial
 Analysis** <span id="1"></span> 
 *As noted in the course introduction, finance is a broad subject and
